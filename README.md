@@ -13,3 +13,8 @@ Exercise 2:
 Consider CoWin Application where users are supposed to provide their nationality and how
 many vaccines he/she has got. If user has not been vaccinated for at least 1 dose prompt the
 Error Message and do not provide further access else give the access into the portal.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Language We Use:
+<b>JAVA</b>
+CSS
+HTML
